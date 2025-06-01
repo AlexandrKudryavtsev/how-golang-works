@@ -2,8 +2,8 @@
 
 ### Оглавление
 
-1) Компилятор
-2) Runtime
+1) [Компилятор](https://github.com/alexKudryavtsev-web/how-golang-works/blob/main/Compiler.md)
+2) [Runtime](https://github.com/alexKudryavtsev-web/how-golang-works/blob/main/Runtime.md)
 3) Планировщик
 4) Сборщик мусора
 5) Реализация: 
