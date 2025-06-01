@@ -2,3 +2,4 @@
 # Sandbox
 /go/
 main.go
+.DS_store
