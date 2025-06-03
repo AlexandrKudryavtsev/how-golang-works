@@ -4,7 +4,7 @@
 
 1) [Компилятор](https://github.com/alexKudryavtsev-web/how-golang-works/blob/main/Compiler.md)
 2) [Runtime](https://github.com/alexKudryavtsev-web/how-golang-works/blob/main/Runtime.md)
-3) Планировщик
+3) [Планировщик](https://github.com/alexKudryavtsev-web/how-golang-works/blob/main/Scheduler.md)
 4) Сборщик мусора
 5) Реализация: 
     - структур
