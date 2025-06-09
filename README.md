@@ -14,14 +14,20 @@
     1) [Runtime](https://github.com/alexKudryavtsev-web/how-golang-works/blob/main/Runtime.md)
     2) [Планировщик](https://github.com/alexKudryavtsev-web/how-golang-works/blob/main/Scheduler.md)
     3) [Каналы](https://github.com/alexKudryavtsev-web/how-golang-works/blob/main/Channel.md)
-    4) [Пакет sync](https://github.com/alexKudryavtsev-web/how-golang-works/blob/main/Sync.md)
-    5) [Контексты](https://github.com/alexKudryavtsev-web/how-golang-works/blob/main/Context.md)
+    <!-- 4) [Пакет sync](https://github.com/alexKudryavtsev-web/how-golang-works/blob/main/Sync.md)
+    5) [Контексты](https://github.com/alexKudryavtsev-web/how-golang-works/blob/main/Context.md) -->
 
 - Память
 
     1) [Аллокатор памяти](https://github.com/alexKudryavtsev-web/how-golang-works/blob/main/Allocator.md)
     2) [Сборщик мусора](https://github.com/alexKudryavtsev-web/how-golang-works/blob/main/GarbageCollector.md)
 
+<!-- - Сеть
+
+- Основные структуры
+
+    1) Слайсы
+    2) Map -->
 
 ### Начальные знания
 
